@@ -1,0 +1,6 @@
+[config]
+BROWSER = firefox
+BROWSER_PATH = /usr/share/applications
+NAME = Läund3
+PAGE = https://web.whatsapp.com/
+OUTPUT_FILE_LOCATION = /home/anshul/out.csv
